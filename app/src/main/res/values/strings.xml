@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoreTextFeatures</string>
+    <string-array name="products">
+        <item>milk</item>
+        <item>cheeze</item>
+        <item>bread</item>
+        <item>water</item>
+    </string-array>
+</resources>
